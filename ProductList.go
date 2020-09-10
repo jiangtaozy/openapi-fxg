@@ -5,7 +5,7 @@
  * 获取商品列表
  */
 
-package openapi-fxg
+package openapiFxg
 
 func ProductList() {
 }

@@ -4,7 +4,7 @@
  * Access Token
  */
 
-package openapi-fxg
+package openapiFxg
 
 import (
   "log"
